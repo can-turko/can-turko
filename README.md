@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 📫 How to reach me **turkoglu.can@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cemal-can-türkoglu-71ba66196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cemal-can-türkoglu-71ba66196" height="30" width="40" /></a>
